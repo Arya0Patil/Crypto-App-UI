@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+<img src="https://github.com/Arya0Patil/Crypto-App-UI/blob/master/assets/Crypto%20App.png" width="30%" height="30%">
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
