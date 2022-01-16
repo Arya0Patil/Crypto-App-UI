@@ -1,4 +1,4 @@
-# matchbuddy
+# Crypto App UI
 
 A new Flutter project.
 
